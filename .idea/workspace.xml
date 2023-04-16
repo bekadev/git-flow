@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="144fe5f1-2e3c-42f1-beea-3746e8d66b7a" name="Changes" comment="new branch dev/ 1" />
+    <list default="true" id="144fe5f1-2e3c-42f1-beea-3746e8d66b7a" name="Changes" comment="new branch dev/ 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flow_new_branch.txt" beforeDir="false" afterPath="$PROJECT_DIR$/flow_new_branch.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +34,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/bekzatkyzyrbaev/Desktop/IT-INCUBATOR/git_flow",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -49,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681663289884</updated>
       <workItem from="1681663290896" duration="1214000" />
+      <workItem from="1681665913445" duration="732000" />
     </task>
     <task id="LOCAL-00001" summary="new branch dev">
       <created>1681663547961</created>
@@ -64,16 +69,35 @@
       <option name="project" value="LOCAL" />
       <updated>1681665591618</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new branch dev/ 2">
+      <created>1681666180527</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681666180527</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="new branch dev" />
     <MESSAGE value="new branch dev/ 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="new branch dev/ 1" />
+    <MESSAGE value="new branch dev/ 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="new branch dev/ 2" />
   </component>
 </project>
